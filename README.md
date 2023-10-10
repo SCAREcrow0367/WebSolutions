@@ -13,5 +13,6 @@ I hope those who find this, find some joy, interesting parts, or maybe some poin
 
 Thank you for reading, I hope to have many updates as life and career move forward. 
 
-Warmest Regards, 
+Warmest Regards,
+ 
 Crow
