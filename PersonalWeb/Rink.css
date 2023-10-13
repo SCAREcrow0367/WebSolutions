@@ -4,21 +4,18 @@
     background-color: black;
 }
 .container{
-    position: absolute;
-    height: 300px;
-    width: 300px;
+    position: relative;
     margin: auto;
-    top: 0;
-    right: 0;
-    left: 0;
-    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .rink{
-    position: absolute;
     height: 600px;
     width: 360px;
     border-radius: 1000px / 400px;
     background-color: snow;
+    position: inherit;
 }
 .line{
     height: 2px;
@@ -49,3 +46,11 @@
     margin-top: 180px;
     margin-bottom: 20px;
 }
+/* .face-off{
+    position: absolute;
+    height: 60px;
+    width: 60px;
+    border-radius: 100px/ 100px;
+    background-color: snow;
+    border-color: #c0392b;
+} */
