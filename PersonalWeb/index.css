@@ -5,5 +5,9 @@ a:link {
 h1 {
     text-align: center;
     background-color: black;
-    color:white;
+    font-family:Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: navy;
+
 }
