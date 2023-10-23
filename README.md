@@ -11,7 +11,7 @@ My first project will be my resume/portfolio website. It will be attached my man
 
 I hope those who find this, find some joy, interesting parts, or maybe some pointers to give me. I am open to all that come to visit with the help that they can provide or just want to connect and grow our networks. 
 
-Please take a look at my current personal web project here. https://SCAREcrow.github.io/WebSolutions/PersonalWeb
+Please take a look at my current personal web project here. https://SCAREcrow0367.github.io/WebSolutions/PersonalWeb
 
 Thank you for reading, I hope to have many updates as life and career move forward. 
 
